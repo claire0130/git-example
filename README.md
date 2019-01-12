@@ -14,3 +14,14 @@ $ touch .gitignore #Ignoring Files 설정
 ```
 
 ---
+
+#### Git Three States flow
+- basic Git workflow  
+- Working Director:  작업 공간
+  - tracked : Git에 의해서 관리 => 변경, 수정 등 파일
+    - Modified
+    - unmodifieds
+  - untracked : 새로 생성된 파일  
+- Staging Area : 변경점을 stage해서 커밋할 스냅샷 생성
+- Local Repository : 커밋된 변경사항이 저장된 공간
+
