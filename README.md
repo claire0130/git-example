@@ -24,4 +24,3 @@ $ touch .gitignore #Ignoring Files 설정
   - untracked : 새로 생성된 파일  
 - Staging Area : 변경점을 stage해서 커밋할 스냅샷 생성
 - Local Repository : 커밋된 변경사항이 저장된 공간
-
