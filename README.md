@@ -23,4 +23,15 @@ $ touch .gitignore #Ignoring Files 설정
     - unmodifieds
   - untracked : 새로 생성된 파일  
 - Staging Area : 변경점을 stage해서 커밋할 스냅샷 생성
+<<<<<<< HEAD
 - Local Repository : 커밋된 변경사항이 저장된 공간
+=======
+- Local Repository : 커밋된 변경사항이 저장된 공간
+
+---
+
+#### Git branch 
+- Creating & Inspecting Branch
+- Checking out branch
+- Working on new branch
+>>>>>>> b_practice
